@@ -1,12 +1,16 @@
-# A beautifull and simplified blog app with nice customization
+# Blog App
 
-## Developed by Mahmudul Hasan Sakib
+![Screenshot of a Blog App](/assets/home.png)
+![Screenshot of a Blog App](/assets/create.png)
 
-# React + Vite
+## Technology Used
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Javascript
+- React
+- Vite
+- CSS3
+- JSON Server
 
-> [!NOTE]
-> This code is open for everyone and you can use it freely
+## Developed by
 
-### Thank you for visiting
+### Mahmudul Hasan Sakib
